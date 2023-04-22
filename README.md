@@ -1,17 +1,5 @@
 # prework-study-guide
 
-## Table of Contents
-
-[Description](##-Description)
-
-[Installation](##-Installation)
-
-[Usage](##-Usage)
-
-[Credits](##-Credits)
-
-[License](##-License)
-
 ## Description
 
 The prework-study-guide was created out of the necessity to learn new, filter, and store information about coding.
